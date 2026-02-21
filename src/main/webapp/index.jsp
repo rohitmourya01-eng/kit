@@ -19,7 +19,7 @@
     Successfully Completed Jenkins Freestyle Deployment
 </h1>
 <h5 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
-     Successfully done Jnekins+Tomcat+Nexus 1.0.0
+     Successfully done Jnekins+Tomcat+Nexus 22.0.0
 
 </h5>
 </body>
